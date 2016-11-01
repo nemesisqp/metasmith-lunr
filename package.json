@@ -61,7 +61,7 @@
     "url": "https://github.com/CMClay/metalsmith-lunr/issues"
   },
   "dependencies": {
-    "lunr": "^0.5.4"
+    "lunr": "^0.7.2"
   },
   "description": "Lunr plugin for Metalsmith",
   "devDependencies": {
