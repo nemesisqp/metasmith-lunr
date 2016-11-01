@@ -4,7 +4,7 @@
   - `ref`: `filePath`
   - `indexPath`: `searchIndex.json`
   
-#### add config to site.js
+#### add config to site.js bellow metalsmith-markdown
 ```
 'metalsmith-lunr': [
 		{
